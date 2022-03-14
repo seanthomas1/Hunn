@@ -5,8 +5,8 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// This program addds tow given numbers and prints the result on the console
 		
-		int		nunmber1 	 = 25;
-		int  	number2  	 = 50;
+		int		nunmber1 	 = 70;
+		int  	number2  	 = 80;
 		int result;
 		 result =  nunmber1 +  number2;
 		//print the result
